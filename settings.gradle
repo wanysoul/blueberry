@@ -9,5 +9,5 @@ include ':core'
 include ':core:zuul'
 
 include ':models'
-include 'models:model1'
-include 'models:model2'
+include ':models:model1'
+include ':models:model2'
