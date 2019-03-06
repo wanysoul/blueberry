@@ -1,6 +1,7 @@
 HELP.md
 .gradle
 /build/
+/node_modules/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
@@ -17,6 +18,7 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+*.json
 /out/
 
 ### NetBeans ###
